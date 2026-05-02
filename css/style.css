@@ -1,0 +1,24 @@
+
+@font-face{
+font-family: opensans-regular;
+src: url(../fonts/open-sans/opensans-regaular.ttf);
+}
+@font-face{
+font-family: opensans-bold;
+src: url(../fonts/open-sans/opensans-bold.ttf);
+}
+.fontt{
+font-family: opensans-regular;
+font-weight: 400;
+}
+.fonttt{
+font-family: opensans-bold;
+font-weight: 700;
+}
+
+@font-face
+
+p {
+font-family: "Roboto", sans-serif;
+font-weight:700
+}
